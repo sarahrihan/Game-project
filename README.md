@@ -1,0 +1,1 @@
+This project is a java project inspired by the **Last of Us** game, it was created as part of a Java programming course for university, showcasing object-oriented programming concepts and game mechanics.
